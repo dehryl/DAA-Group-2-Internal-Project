@@ -1,2 +1,6 @@
 venv/
 .venv/
+# Large feature CSVs
+HDB_Resale_Prices_Feature_Engineered.csv
+HDB_Resale_Prices_Features_Engineered.csv
+*.csv
