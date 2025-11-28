@@ -1,6 +1,13 @@
+# Ignore virtual environments
 venv/
 .venv/
-# Large feature CSVs
-HDB_Resale_Prices_Feature_Engineered.csv
-HDB_Resale_Prices_Features_Engineered.csv
+
+# Ignore all CSV files (too large for GitHub)
 *.csv
+
+# Ignore zipped files EXCEPT the engineered dataset
+*.zip
+!Feature_Engineered.zip
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
