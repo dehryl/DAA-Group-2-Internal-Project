@@ -8,6 +8,7 @@ venv/
 # Ignore zipped files EXCEPT the engineered dataset
 *.zip
 !Feature_Engineered.zip
+!feature_importances.csv.zip
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
