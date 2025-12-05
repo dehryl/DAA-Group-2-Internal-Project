@@ -4,6 +4,8 @@ venv/
 
 .vscode/
 
+.DS_Store
+
 # Ignore all CSV files (too large for GitHub)
 *.csv
 !feature_importances.csv
