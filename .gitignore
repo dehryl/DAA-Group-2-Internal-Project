@@ -1,9 +1,6 @@
-.vscode/
-__pycache__/
-.ipynb_checkpoints/
-*.zip
-*.xlsx
-*.docx
-*.venv
-venv/
 HDB_Resale_Prices.csv
+*.backup
+*.log
+.DS_Store
+venv/
+.ipynb_checkpoints/
