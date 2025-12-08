@@ -1,2 +1,8 @@
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+*.xlsx
+*.docx
+*.venv
 venv/
-.venv/
