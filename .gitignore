@@ -6,3 +6,4 @@ __pycache__/
 *.docx
 *.venv
 venv/
+HDB_Resale_Prices.csv
