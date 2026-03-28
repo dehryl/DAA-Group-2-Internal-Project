@@ -35,7 +35,7 @@ Source: [data.gov.sg — HDB Resale Flat Prices](https://data.gov.sg)
 - Temporal trend analysis by quarter and year
 - Correlation heatmap of key numeric variables
 
-### 3. Feature Engineering (Darryl)
+### 3. Feature Engineering
 Geospatial features derived via the **OneMap API**:
 - Postal codes and coordinates (latitude/longitude) for each HDB block
 - **MRT proximity**: distance to nearest station, within-500m and within-1km flags
